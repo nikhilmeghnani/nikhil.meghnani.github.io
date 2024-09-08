@@ -1,5 +1,4 @@
-# nikhil.meghnani.github.io
-# Welcome to [Your Name]’s GitHub Page 🌐
+# Welcome to Nikhil Meghnani's Data World 🌐
 
 Hi there! I'm Nikhil Meghnani, a passionate Cloud Data Engineer focused on Data Engineering including AWS and Azure.
 
